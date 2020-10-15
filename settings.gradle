@@ -1,0 +1,2 @@
+include ':app', ':toastlibrary', ':strlibrary'
+rootProject.name='My Application'
